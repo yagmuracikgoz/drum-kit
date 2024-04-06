@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-color: #6c2939;
 }
 
 h1 {
@@ -48,7 +48,7 @@ footer {
 
 .k {
   background-image: url("./images/kick.png");
-  background-size: cover ;
+  
 
 }
 
